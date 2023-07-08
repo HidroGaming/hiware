@@ -8,4 +8,4 @@ loadstring(game:HttpGet"https://raw.githubusercontent.com/HidroGaming/hiware/mai
 [Valyse](https://valyse.net)\
 [Electron](https://ryos.lol)\
 [Vega X](https://vegax.gg)\
-[Fluxus](https://fluxteam.net)\
+[Fluxus](https://fluxteam.net)
